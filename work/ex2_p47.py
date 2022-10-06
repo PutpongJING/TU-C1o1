@@ -1,7 +1,4 @@
 #6510742460 Putthipong Soongsuwan
-from this import d
-
-
 def print_digit(a_string):
     for i in a_string:
         if i.isdigit():
