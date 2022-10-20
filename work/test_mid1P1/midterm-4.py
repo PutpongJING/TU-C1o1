@@ -1,3 +1,4 @@
+#6510742460 Putthipong Soongsuwan
 num_wheels = int(input("Please input number of wheels of your vehicle: "))
 toll_way = int(input("Distance of your toll way (km): "))
 if num_wheels == 4:
