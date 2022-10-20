@@ -1,4 +1,4 @@
-# This program displays a rectangular pattern
+3# This program displays a rectangular pattern
 # of asterisks.
 rows = int(input('How many rows? '))
 cols = int(input('How many columns? '))
